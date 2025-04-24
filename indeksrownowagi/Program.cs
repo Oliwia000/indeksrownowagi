@@ -7,7 +7,7 @@ namespace IndeksRownowagi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" Indeks Równowagi ");
+            Console.WriteLine("           Indeks Równowagi         ");
             Console.WriteLine("Wprowadź liczby całkowite oddzielone spacją:");
 
             string input = Console.ReadLine();
